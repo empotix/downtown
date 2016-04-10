@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+teslathemes.com	TRUE	/	FALSE	1999999999	TeslaThemesVisited	visited
+.teslathemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	vsivmcbaj4r6nc2c782akok286
+
